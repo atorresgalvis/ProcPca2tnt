@@ -1,0 +1,10 @@
+
+nstates cont
+xread 2 4
+
+Thypld 19.993 43.419
+Thyvst 0 65
+Ledhal 65 63.127
+Graagi 30.925 0
+;
+proc/ ;
